@@ -1,0 +1,193 @@
+.Main {
+    width: 100%;
+    width: 960px;
+    margin: 0px;
+    border: 5px;
+    text-align: center;
+    background-image: url("../images/ripples.png");
+    color: #dddddd;
+}
+
+.stickyheader {
+    height: 85px;
+    width: 960px;
+    text-align: right;
+    border: 1px;
+    border-style: solid;
+    background-color: #ffffff;
+    border-color: #cccccc;
+    color: #b1b1b1;
+}
+
+#name {
+    height: 60px;
+    width: 220px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 21pt;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 25px;
+    margin-left: 60px;
+    color: white;
+    background-color: #4aaaa5;
+}
+
+#linkabout {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    color: lightgray;
+    float: right;
+    clear: both;
+    margin: -50px 200px 10px 10px;
+
+}
+
+#linkportfolio {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    color: lightgray;
+    float: right;
+    clear: both;
+    margin: -50px 100px 10px 10px;
+
+}
+
+#linkcontact {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    color: lightgray;
+    float: right;
+    clear: both;
+    margin: -50px 15px 10px 10px;
+
+}
+
+#juju {
+    width: 200px;
+    text-align: left;
+    float: left;
+
+}
+
+hr {
+    width: 100%;
+    font-weight: 700;
+    color: lightgray;
+}
+
+.stickyfooter {
+    height: 60px;
+    width: 960px;
+    border-top: 8px;
+    border-style: solid;
+    border-color: #4aaaa5;
+    background-color: #666666;
+    text-align: center;
+    float: left;
+    padding: 300px, 0px, 0px, 0px;
+}
+
+h1 {
+    color: #4aaaa5;
+    font-size: 20pt;
+    text-align: left;
+}
+
+#informationbox {
+    text-align: left;
+    background-color: #ffffff;
+    border-color: #dddddd;
+    width: 800px;
+    margin: 65px;
+    border: 1px;
+    border-style: solid;
+    padding: 40px;
+}
+
+#informationbox2 {
+    text-align: left;
+    background-color: #ffffff;
+    border-color: #dddddd;
+    width: 600px;
+    margin: 25px;
+    margin-left: 150px;
+    border: 1px;
+    border-style: solid;
+    padding: 40px;
+}
+
+#informationbox3 {
+    text-align: left;
+    background-color: #ffffff;
+    border-color: #dddddd;
+    width: 700px;
+    margin: 25px;
+    margin-left: 90px;
+    border: 1px;
+    border-style: solid;
+    padding: 40px;
+}
+
+#abouttxt {
+    text-align: left;
+    color: #b1b1b1;
+    clear: left;
+
+}
+
+#copyright {
+    color: #dddddd;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 8pt;
+    line-height: 900%;
+}
+
+.portfolio {
+    height: 120px;
+    width: 170px;
+}
+
+.imgcontainer {
+    height: 150px;
+    width: 200px;
+    margin: 20px;
+    border-color: #b1b1b1;
+    border: 1px;
+    float: left;
+    position: relative;
+}
+
+.banner {
+    height: 40px;
+    width: 170px;
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 12pt;
+    text-align: center;
+    line-height: 250%;
+    position: absolute;
+    margin-bottom: 20px;
+}
+
+.button {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 2px;
+    width: 100px;
+}
+
+.labels {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #acacac;
+    font-size: 8pt;
+    margin: 5px;
+}
+
+.formentry {
+    width: 100%;
+    margin: 10px 0px;
+}
+
+#Message {
+    height: 120px;
+}
